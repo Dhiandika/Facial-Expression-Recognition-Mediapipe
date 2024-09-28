@@ -15,6 +15,7 @@ To deploy this project run
   python test_model.py
 ```
 ![App Screenshot](/asset/hasil.jpg)
+![App Screenshot](/asset/Emotion%20and%20Face%20Mesh%20Recognition%202024-09-28%2013-02-13.gif)
 
 ---
 
